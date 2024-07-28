@@ -67,6 +67,4 @@ Feel free to connect with me for anything related or unrelated to my work, even 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jayanta47&theme=dracula)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jayanta47&theme=dracula)
-
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jayanta47&theme=dracula)
